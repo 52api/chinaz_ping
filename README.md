@@ -81,7 +81,7 @@ npm install playwright
 
 ```bash
 node chinaz_ping.js <域名>
-node chinaz_ping.js www.x6d.net
+node chinaz_ping.js cloud.tencent.com
 node chinaz_ping.js baidu.com
 node chinaz_ping.js 8.8.8.8
 ```

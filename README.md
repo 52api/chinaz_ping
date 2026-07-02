@@ -89,14 +89,14 @@ node chinaz_ping.js 8.8.8.8
 ### 示例
 
 ```bash
-$ node chinaz_ping.js www.x6d.net
+$ node chinaz_ping.js cloud.tencent.com
 ```
 
 输出：
 
 ```json
 {
-  "domain": "www.x6d.net",
+  "domain": "cloud.tencent.com",
   "nodes": [
     {
       "location": "浙江宁波[电信]",
